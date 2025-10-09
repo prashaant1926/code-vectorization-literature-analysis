@@ -1,0 +1,1 @@
+{"id":"1","assumption":"Current approaches have limitations","hypothesis":"Modern transformer-based code vectorization techniques provide superior semantic preservation and downstream task performance compared to traditional AST and token-based embedding approaches.","impact":"Significant advancement in the field","timestamp":"2025-10-09T18:04:00.579Z","status":"proposed"}
